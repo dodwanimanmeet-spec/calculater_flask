@@ -43,4 +43,6 @@ Internship Project | 2024
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+<img width="1920" height="1020" alt="Screenshot 2026-06-08 131610" src="https://github.com/user-attachments/assets/6287ece4-887e-4b88-b369-4e9a2f71b4d3" />
+
 
